@@ -1,0 +1,33 @@
+_repo: History-of-Human-Society_30610
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackmar, Frank W. (Frank Wilson)
+    aliases:
+    - Blackmar, F. W. (Frank Wilson)
+    - Blackmar, Frank Wilson
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '34710'
+    url: http://www.gutenberg.org/2009/agents/34710
+    wikipedia: http://en.wikipedia.org/wiki/Frank_W._Blackmar
+description: ''
+gutenberg_issued: '2009-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30610'
+  lccn: '26006037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HM'
+- !lcsh 'Sociology'
+- !lcsh 'Progress'
+- !lcsh 'Civilization'
+title: History of Human Society
+url: http://www.gutenberg.org/ebooks/30610
